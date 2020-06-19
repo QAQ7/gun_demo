@@ -1,0 +1,41 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Script\Block02.cs">
+    <Files>
+      <File FileName="Assets\Script\Core.cs" Line="1" Column="1" />
+      <File FileName="Assets\Script\Blocks.cs" Line="1" Column="1" />
+      <File FileName="Assets\Script\Chunk.cs" Line="1" Column="1" />
+      <File FileName="Assets\Script\CreateChunk.cs" Line="1" Column="1" />
+      <File FileName="Assets\Script\Dissolve2.shader" Line="1" Column="1" />
+      <File FileName="Assets\Script\ControlShot.cs" Line="1" Column="1" />
+      <File FileName="Assets\Script\BlockRotate.cs" Line="1" Column="1" />
+      <File FileName="Assets\Script\GameManager.cs" Line="1" Column="1" />
+      <File FileName="Assets\Script\BlockFollow.cs" Line="20" Column="17" />
+      <File FileName="Assets\Script\Bullet.cs" Line="1" Column="1" />
+      <File FileName="Assets\Script\Screen.shader" Line="1" Column="1" />
+      <File FileName="Assets\Script\ScreenShift.cs" Line="1" Column="1" />
+      <File FileName="Assets\Script\Screen2.shader" Line="1" Column="1" />
+      <File FileName="Assets\Script\DissolveNor.shader" Line="1" Column="1" />
+      <File FileName="Assets\Script\Effect_Destory.cs" Line="1" Column="1" />
+      <File FileName="Assets\Script\PlaneControl.cs" Line="1" Column="1" />
+      <File FileName="Assets\Script\makePlane.cs" Line="1" Column="1" />
+      <File FileName="Assets\Script\Particle_Follow.cs" Line="1" Column="1" />
+      <File FileName="Assets\Script\Mission01.cs" Line="1" Column="1" />
+      <File FileName="Assets\Script\Part.cs" Line="1" Column="1" />
+      <File FileName="Assets\Script\Mission.cs" Line="1" Column="1" />
+      <File FileName="Assets\Script\Mission01_Part01.cs" Line="41" Column="3" />
+      <File FileName="Assets\Script\Mission01_Part02.cs" Line="28" Column="30" />
+      <File FileName="Assets\Script\Mission01_Part03.cs" Line="5" Column="33" />
+      <File FileName="Assets\Script\Block.cs" Line="45" Column="75" />
+      <File FileName="Assets\Script\Player.cs" Line="1" Column="1" />
+      <File FileName="Assets\Script\Block02.cs" Line="42" Column="22" />
+      <File FileName="Assets\Script\BlockFall.cs" Line="54" Column="16" />
+      <File FileName="Assets\Standard Assets\Characters\FirstPersonCharacter\Scripts\FirstPersonController.cs" Line="1" Column="1" />
+      <File FileName="Assets\Script\disappoint.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
